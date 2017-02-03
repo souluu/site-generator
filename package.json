@@ -1,0 +1,12 @@
+{
+  "name": "site-generator",
+  "version": "1.0.0",
+  "description": "Static site generator",
+  "author": "Hao Yu",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "glob": "^7.1.1",
+    "handlebars": "^4.0.6"
+  }
+}

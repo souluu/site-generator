@@ -1,0 +1,9 @@
+{
+  "title": "My Website",
+  "description": "An example static site",
+  "pages": {
+    "index": {
+      "title": "Homepage"
+    }
+  }
+}
